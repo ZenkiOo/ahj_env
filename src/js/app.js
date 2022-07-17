@@ -7,5 +7,5 @@
 export default function demo(value) {
   return value;
 }
-
+// eslint-disable-next-line
 console.log('app.js included');
